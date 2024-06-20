@@ -1,0 +1,9 @@
+[
+  {
+    "FullName": "John Doe",
+    "EmailAddress": "john.doe@example.com",
+    "PhoneNumber": "+1234567890",
+    "GitHubLink": "https://github.com/johndoe",
+    "stopwatch_time": "00:01:00.000"
+  }
+]
