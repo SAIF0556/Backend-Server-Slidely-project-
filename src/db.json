@@ -4,6 +4,34 @@
     "EmailAddress": "john.doe@example.com",
     "PhoneNumber": "+1234567890",
     "GitHubLink": "https://github.com/johndoe",
-    "stopwatch_time": "00:01:00.000"
+    "stopwatch_time": "00:01:30"
+  },
+  {
+    "FullName": "Jane Smith",
+    "EmailAddress": "jane.smith@example.com",
+    "PhoneNumber": "+0987654321",
+    "GitHubLink": "https://github.com/janesmith",
+    "stopwatch_time": "00:02:15"
+  },
+  {
+    "FullName": "Alice Johnson",
+    "EmailAddress": "alice.johnson@example.com",
+    "PhoneNumber": "+1112223333",
+    "GitHubLink": "https://github.com/alicejohnson",
+    "stopwatch_time": "00:00:45"
+  },
+  {
+    "FullName": "Bob Brown",
+    "EmailAddress": "bob.brown@example.com",
+    "PhoneNumber": "+4445556666",
+    "GitHubLink": "https://github.com/bobbrown",
+    "stopwatch_time": "00:01:00"
+  },
+  {
+    "FullName": "Charlie Davis",
+    "EmailAddress": "charlie.davis@example.com",
+    "PhoneNumber": "+7778889999",
+    "GitHubLink": "https://github.com/charliedavis",
+    "stopwatch_time": "00:01:20"
   }
 ]
